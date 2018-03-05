@@ -45,6 +45,9 @@ the member's folked origin in
 ./Members_LUO/AddGitPy/
 ./Members_CQ/AddGitPy/
 
+3 parts: one owner with team who created original files and then stop,
+two members. member folk and add new files
+
 
 
 
