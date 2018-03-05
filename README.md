@@ -33,7 +33,17 @@ VCS | Git | commit |push
 the repo of calmiluo will updated.
 
 if more files need, add as work directly on master branch in calmiluo's repo,
-no pull requestes appear, it 's only on one branch of master
+no pull requestes appear, it 's only on one branch of master.
+
+if not more files need, go to another user, the member will fork and clone, then modify files.
+
+the current local AddGitPy will be saved, but another secondary folder will use to allow member
+clone repo, (the name is the same, so must in different folder).
+the upstream in ./AddGitpy/
+the member's folked origin in
+
+./Members_LUO/AddGitPy/
+./Members_CQ/AddGitPy/
 
 
 
