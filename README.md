@@ -32,6 +32,9 @@ VCS | Git | commit |push
 
 the repo of calmiluo will updated.
 
+if more files need, add as work directly on master branch in calmiluo's repo,
+no pull requestes appear, it 's only on one branch of master
+
 
 
 
